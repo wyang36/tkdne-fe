@@ -21,7 +21,7 @@ export default function About() {
 
     <Image
       src="http://placekitten.com/512/512"
-      className="rounded-3xl"
+      className="rounded-2xl"
       alt="placeholder cat pic"
       width={512}
       height={512}
