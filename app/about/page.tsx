@@ -20,7 +20,7 @@ export default function About() {
     </div>
 
     <Image
-      src="http://placekitten.com/512/512"
+      src="/images/collage.png"
       className="rounded-2xl"
       alt="placeholder cat pic"
       width={512}
