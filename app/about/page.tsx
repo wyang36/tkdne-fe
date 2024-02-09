@@ -22,7 +22,7 @@ export default function About() {
     <Image
       src="/images/collage.png"
       className="rounded-2xl"
-      alt="placeholder cat pic"
+      alt="cat pic collage"
       width={512}
       height={512}
       priority
