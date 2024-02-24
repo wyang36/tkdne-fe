@@ -20,7 +20,7 @@ export default function About() {
     </div>
 
     <Image
-      src="/images/collage.png"
+      src="/images/cat_collage.png"
       className="rounded-2xl"
       alt="cat pic collage"
       width={512}
